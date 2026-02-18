@@ -1,0 +1,13 @@
+git commit -m common header
+
+feat: 新功能
+
+fix: 修 bug
+
+docs: 文件修改
+
+refactor: 重構
+
+chore: 雜項（初始化、設定）
+
+test: 測試
