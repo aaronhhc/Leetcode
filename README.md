@@ -18,6 +18,6 @@ Hard: 0
 ## Solved Problems
 
 | # | Title | Difficulty | Date |
-|---|------|------------|
+|---|------|------------|------|
 | 0485 | Max Consecutive Ones | Easy | 2026/3/24 |
 | 0001 | Two Sum | Easy | 2026/3/25 |
