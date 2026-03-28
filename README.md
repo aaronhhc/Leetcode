@@ -1,6 +1,6 @@
 # LeetCode Practice
 
-Language: C++  
+Language: Python mainly, C++  
 Started: 2026
 
 ## Stats
