@@ -11,3 +11,11 @@ refactor: 重構
 chore: 雜項（初始化、設定）
 
 test: 測試
+
+template for professional Github note:
+1. Problem
+2. Example
+3. Approach
+4. Key Concepts
+5. Complexity
+6. Code

@@ -5,8 +5,8 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 3
-- Easy: 3
+- Total Solved: 4
+- Easy: 4
 - Medium: 0
 - Hard: 0
 
@@ -15,6 +15,7 @@ Started: 2026
 - [x] 0485 Max Consecutive Ones
 - [x] 0001 Two Sum
 - [x] 0217 Contains Duplicate
+- [x] 0242 Valid Anagram
 
 ## Solved Problems
 
@@ -22,4 +23,5 @@ Started: 2026
 |---|------|------------|------|
 | 0485 | Max Consecutive Ones | Easy | 2026/3/24 |
 | 0001 | Two Sum | Easy | 2026/3/25 |
-| 0001 | Contains Duplicate | Easy | 2026/3/28 |
+| 0217 | Contains Duplicate | Easy | 2026/3/28 |
+| 0242 | Valid Anagram | Easy | 2026/3/28 |
