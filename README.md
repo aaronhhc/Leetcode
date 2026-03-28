@@ -5,10 +5,10 @@ Started: 2026
 
 ## Stats
 
-Total Solved: 3
-Easy: 3
-Medium: 0
-Hard: 0
+- Total Solved: 3
+- Easy: 3
+- Medium: 0
+- Hard: 0
 
 ## Progress
 
