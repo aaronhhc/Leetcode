@@ -5,8 +5,8 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 4
-- Easy: 4
+- Total Solved: 5
+- Easy: 5
 - Medium: 0
 - Hard: 0
 
@@ -16,6 +16,7 @@ Started: 2026
 - [x] 0001 Two Sum
 - [x] 0217 Contains Duplicate
 - [x] 0242 Valid Anagram
+- [x] 0121 Best Time to Buy and Sell Stock
 
 ## Solved Problems
 
@@ -25,3 +26,4 @@ Started: 2026
 | 0001 | Two Sum | Easy | 2026/3/25 |
 | 0217 | Contains Duplicate | Easy | 2026/3/28 |
 | 0242 | Valid Anagram | Easy | 2026/3/28 |
+| 0121 | Best Time to Buy and Sell Stock | Easy | 2026/3/29 |
