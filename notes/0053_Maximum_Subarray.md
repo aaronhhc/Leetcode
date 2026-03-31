@@ -27,3 +27,23 @@ Then update the global maximum.
 
 ## Note
 This is the optimal solution because every number must be checked at least once.
+
+## Key Idea
+
+At each position, we only need to think about one thing:
+
+For `nums[i]`, what is the **maximum subarray sum ending at `nums[i]`**?
+
+There are only two possibilities:
+
+1. Extend the previous subarray  
+2. Start a new subarray from the current number
+
+So the transition is:
+
+`current_sum = max(nums[i], current_sum + nums[i])`
+
+This means:
+
+- if the previous sum is still useful, keep extending it
+- if the previous sum becomes a burden, start fresh from `nums[i]`
