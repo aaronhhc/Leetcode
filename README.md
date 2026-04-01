@@ -5,9 +5,9 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 6
+- Total Solved: 7
 - Easy: 5
-- Medium: 1
+- Medium: 2
 - Hard: 0
 
 ## Progress
@@ -18,6 +18,7 @@ Started: 2026
 - [x] 0242 Valid Anagram
 - [x] 0121 Best Time to Buy and Sell Stock
 - [x] 0053 Maximum Subarray
+- [x] 0238 Product Of Array Except Itself
 
 ## Solved Problems
 
@@ -29,3 +30,4 @@ Started: 2026
 | 0242 | Valid Anagram | Easy | 2026/3/28 |
 | 0121 | Best Time to Buy and Sell Stock | Easy | 2026/3/29 |
 | 0053 | Maximum Subarray | Medium | 2026/3/31 |
+| 0238 | Product Of Array Except Itself | Medium | 2026/4/1 |
