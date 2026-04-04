@@ -5,9 +5,9 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 8
+- Total Solved: 9
 - Easy: 5
-- Medium: 3
+- Medium: 4
 - Hard: 0
 
 ## Progress
@@ -20,6 +20,7 @@ Started: 2026
 - [x] 0053 Maximum Subarray
 - [x] 0238 Product Of Array Except Itself
 - [x] 0049 Group Anagrams
+- [x] 0347 Top K Frequent Elements
 
 ## Solved Problems
 
@@ -33,3 +34,4 @@ Started: 2026
 | 0053 | Maximum Subarray | Medium | 2026/3/31 |
 | 0238 | Product Of Array Except Itself | Medium | 2026/4/1 |
 | 0049 | Group Anagrams | Medium | 2026/4/3 |
+| 0347 | Top K Frequent Elements | Medium | 2026/4/4 |
