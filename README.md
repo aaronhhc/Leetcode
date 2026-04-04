@@ -3,6 +3,16 @@
 Language: Python mainly, C++  
 Started: 2026
 
+## Structure
+
+- `solutions/array`
+- `solutions/greedy`
+- `solutions/hash`
+- `solutions/prefix_sum`
+- `solutions/sliding_window`
+- `solutions/string`
+- `notes`
+
 ## Stats
 
 - Total Solved: 9
