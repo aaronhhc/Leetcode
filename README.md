@@ -15,9 +15,9 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 10
+- Total Solved: 11
 - Easy: 5
-- Medium: 5
+- Medium: 6
 - Hard: 0
 
 ## Progress
@@ -32,6 +32,7 @@ Started: 2026
 - [x] 0049 Group Anagrams
 - [x] 0347 Top K Frequent Elements
 - [x] 0128 Longest Consecutive Sequence
+- [x] 0036 Valid Sudoku
 
 ## Solved Problems
 
@@ -47,3 +48,4 @@ Started: 2026
 | 0049 | Group Anagrams | Medium | 2026/4/3 |
 | 0347 | Top K Frequent Elements | Medium | 2026/4/4 |
 | 0128 | Longest Consecutive Sequence | Medium | 2026/4/7 |
+| 0036 | Valid Sudoku | Medium | 2026/4/7 |
