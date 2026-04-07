@@ -15,9 +15,9 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 9
+- Total Solved: 10
 - Easy: 5
-- Medium: 4
+- Medium: 5
 - Hard: 0
 
 ## Progress
@@ -31,6 +31,7 @@ Started: 2026
 - [x] 0238 Product Of Array Except Itself
 - [x] 0049 Group Anagrams
 - [x] 0347 Top K Frequent Elements
+- [x] 0128 Longest Consecutive Sequence
 
 ## Solved Problems
 
@@ -45,3 +46,4 @@ Started: 2026
 | 0238 | Product Of Array Except Itself | Medium | 2026/4/1 |
 | 0049 | Group Anagrams | Medium | 2026/4/3 |
 | 0347 | Top K Frequent Elements | Medium | 2026/4/4 |
+| 0128 | Longest Consecutive Sequence | Medium | 2026/4/7 |
