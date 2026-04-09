@@ -15,9 +15,9 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 12
+- Total Solved: 13
 - Easy: 6
-- Medium: 6
+- Medium: 7
 - Hard: 0
 
 ## Progress
@@ -34,6 +34,7 @@ Started: 2026
 - [x] 0128 Longest Consecutive Sequence
 - [x] 0036 Valid Sudoku
 - [x] 0125 Valid Palindrome
+- [x] 0167 Two Sum II - Input Array Is Sorted
 
 ## Solved Problems
 
@@ -51,3 +52,4 @@ Started: 2026
 | 0128 | Longest Consecutive Sequence | Medium | 2026/4/7 |
 | 0036 | Valid Sudoku | Medium | 2026/4/7 |
 | 0125 | Valid Palindrome | Easy | 2026/4/8 |
+| 0167 | Two Sum II - Input Array Is Sorted | Medium | 2026/4/9 |
