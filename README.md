@@ -15,9 +15,9 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 13
+- Total Solved: 14
 - Easy: 6
-- Medium: 7
+- Medium: 8
 - Hard: 0
 
 ## Progress
@@ -35,6 +35,7 @@ Started: 2026
 - [x] 0036 Valid Sudoku
 - [x] 0125 Valid Palindrome
 - [x] 0167 Two Sum II - Input Array Is Sorted
+- [x] 0011 Container With Most Water
 
 ## Solved Problems
 
@@ -53,3 +54,4 @@ Started: 2026
 | 0036 | Valid Sudoku | Medium | 2026/4/7 |
 | 0125 | Valid Palindrome | Easy | 2026/4/8 |
 | 0167 | Two Sum II - Input Array Is Sorted | Medium | 2026/4/9 |
+| 0011 | Container With Most Water | Medium | 2026/4/10 |
