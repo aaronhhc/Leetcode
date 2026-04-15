@@ -15,10 +15,10 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 15
+- Total Solved: 16
 - Easy: 6
 - Medium: 9
-- Hard: 0
+- Hard: 1
 
 ## Progress
 
@@ -37,6 +37,7 @@ Started: 2026
 - [x] 0167 Two Sum II - Input Array Is Sorted
 - [x] 0011 Container With Most Water
 - [x] 0015 3Sum
+- [x] 0042 Trapping Rain Water
 
 ## Solved Problems
 
@@ -57,3 +58,4 @@ Started: 2026
 | 0167 | Two Sum II - Input Array Is Sorted | Medium | 2026/4/9 |
 | 0011 | Container With Most Water | Medium | 2026/4/10 |
 | 0015 | 3Sum | Medium | 2026/4/14 |
+| 0042 | Trapping Rain Water | Hard | 2026/4/15 |
