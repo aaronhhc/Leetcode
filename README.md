@@ -15,9 +15,9 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 16
+- Total Solved: 17
 - Easy: 6
-- Medium: 9
+- Medium: 10
 - Hard: 1
 
 ## Progress
@@ -38,6 +38,7 @@ Started: 2026
 - [x] 0011 Container With Most Water
 - [x] 0015 3Sum
 - [x] 0042 Trapping Rain Water
+- [x] 0003 Longest Substring Without Repeating Characters
 
 ## Solved Problems
 
@@ -59,3 +60,4 @@ Started: 2026
 | 0011 | Container With Most Water | Medium | 2026/4/10 |
 | 0015 | 3Sum | Medium | 2026/4/14 |
 | 0042 | Trapping Rain Water | Hard | 2026/4/15 |
+| 0003 | Longest Substring Without Repeating Characters | Medium | 2026/4/16 |
