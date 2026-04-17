@@ -15,9 +15,9 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 17
+- Total Solved: 18
 - Easy: 6
-- Medium: 10
+- Medium: 11
 - Hard: 1
 
 ## Progress
@@ -39,6 +39,7 @@ Started: 2026
 - [x] 0015 3Sum
 - [x] 0042 Trapping Rain Water
 - [x] 0003 Longest Substring Without Repeating Characters
+- [x] 0424 Longest Repeating Character Replacement
 
 ## Solved Problems
 
@@ -61,3 +62,4 @@ Started: 2026
 | 0015 | 3Sum | Medium | 2026/4/14 |
 | 0042 | Trapping Rain Water | Hard | 2026/4/15 |
 | 0003 | Longest Substring Without Repeating Characters | Medium | 2026/4/16 |
+| 0424 | Longest Repeating Character Replacement | Medium | 2026/4/17 |
