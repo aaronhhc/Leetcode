@@ -67,5 +67,5 @@ Started: 2026
 | 0003 | Longest Substring Without Repeating Characters | Medium | 2026/4/16 |
 | 0424 | Longest Repeating Character Replacement | Medium | 2026/4/17 |
 | 0567 | Permutation in String | Medium | 2026/4/18 |
-| 0438 | Find All Anagrams in a String | Medium | 2026/4/26 |
 | 0076 | Minimum Window Substring | Hard | 2026/4/22 |
+| 0438 | Find All Anagrams in a String | Medium | 2026/4/26 |
