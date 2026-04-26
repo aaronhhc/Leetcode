@@ -15,9 +15,9 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 20
+- Total Solved: 21
 - Easy: 6
-- Medium: 12
+- Medium: 13
 - Hard: 2
 
 ## Progress
@@ -41,6 +41,7 @@ Started: 2026
 - [x] 0003 Longest Substring Without Repeating Characters
 - [x] 0424 Longest Repeating Character Replacement
 - [x] 0567 Permutation in String
+- [x] 0438 Find All Anagrams in a String
 - [x] 0076 Minimum Window Substring
 
 ## Solved Problems
@@ -66,4 +67,5 @@ Started: 2026
 | 0003 | Longest Substring Without Repeating Characters | Medium | 2026/4/16 |
 | 0424 | Longest Repeating Character Replacement | Medium | 2026/4/17 |
 | 0567 | Permutation in String | Medium | 2026/4/18 |
+| 0438 | Find All Anagrams in a String | Medium | 2026/4/26 |
 | 0076 | Minimum Window Substring | Hard | 2026/4/22 |
