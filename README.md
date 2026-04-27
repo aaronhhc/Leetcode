@@ -12,13 +12,19 @@ Started: 2026
 - `solutions/sliding_window`
 - `solutions/stack`
 - `solutions/string`
-- `notes`
+- `notes/array`
+- `notes/greedy`
+- `notes/hash`
+- `notes/prefix_sum`
+- `notes/sliding_window`
+- `notes/stack`
+- `notes/string`
 
 ## Stats
 
-- Total Solved: 22
+- Total Solved: 23
 - Easy: 7
-- Medium: 13
+- Medium: 14
 - Hard: 2
 
 ## Progress
@@ -45,6 +51,7 @@ Started: 2026
 - [x] 0076 Minimum Window Substring
 - [x] 0438 Find All Anagrams in a String
 - [x] 0020 Valid Parentheses
+- [x] 0155 Min Stack
 
 ## Solved Problems
 
@@ -72,3 +79,4 @@ Started: 2026
 | 0076 | Minimum Window Substring | Hard | 2026/4/22 |
 | 0438 | Find All Anagrams in a String | Medium | 2026/4/26 |
 | 0020 | Valid Parentheses | Easy | 2026/4/27 |
+| 0155 | Min Stack | Medium | 2026/4/27 |
