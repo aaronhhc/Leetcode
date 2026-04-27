@@ -10,13 +10,14 @@ Started: 2026
 - `solutions/hash`
 - `solutions/prefix_sum`
 - `solutions/sliding_window`
+- `solutions/stack`
 - `solutions/string`
 - `notes`
 
 ## Stats
 
-- Total Solved: 21
-- Easy: 6
+- Total Solved: 22
+- Easy: 7
 - Medium: 13
 - Hard: 2
 
@@ -41,8 +42,9 @@ Started: 2026
 - [x] 0003 Longest Substring Without Repeating Characters
 - [x] 0424 Longest Repeating Character Replacement
 - [x] 0567 Permutation in String
-- [x] 0438 Find All Anagrams in a String
 - [x] 0076 Minimum Window Substring
+- [x] 0438 Find All Anagrams in a String
+- [x] 0020 Valid Parentheses
 
 ## Solved Problems
 
@@ -69,3 +71,4 @@ Started: 2026
 | 0567 | Permutation in String | Medium | 2026/4/18 |
 | 0076 | Minimum Window Substring | Hard | 2026/4/22 |
 | 0438 | Find All Anagrams in a String | Medium | 2026/4/26 |
+| 0020 | Valid Parentheses | Easy | 2026/4/27 |
