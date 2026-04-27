@@ -22,9 +22,9 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 23
+- Total Solved: 24
 - Easy: 7
-- Medium: 14
+- Medium: 15
 - Hard: 2
 
 ## Progress
@@ -52,6 +52,7 @@ Started: 2026
 - [x] 0438 Find All Anagrams in a String
 - [x] 0020 Valid Parentheses
 - [x] 0155 Min Stack
+- [x] 0150 Evaluate Reverse Polish Notation
 
 ## Solved Problems
 
@@ -80,3 +81,4 @@ Started: 2026
 | 0438 | Find All Anagrams in a String | Medium | 2026/4/26 |
 | 0020 | Valid Parentheses | Easy | 2026/4/27 |
 | 0155 | Min Stack | Medium | 2026/4/27 |
+| 0150 | Evaluate Reverse Polish Notation | Medium | 2026/4/28 |
