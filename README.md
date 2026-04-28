@@ -6,6 +6,7 @@ Started: 2026
 ## Structure
 
 - `solutions/array`
+- `solutions/backtracking`
 - `solutions/greedy`
 - `solutions/hash`
 - `solutions/prefix_sum`
@@ -13,6 +14,7 @@ Started: 2026
 - `solutions/stack`
 - `solutions/string`
 - `notes/array`
+- `notes/backtracking`
 - `notes/greedy`
 - `notes/hash`
 - `notes/prefix_sum`
@@ -22,9 +24,9 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 24
+- Total Solved: 25
 - Easy: 7
-- Medium: 15
+- Medium: 16
 - Hard: 2
 
 ## Progress
@@ -53,6 +55,7 @@ Started: 2026
 - [x] 0020 Valid Parentheses
 - [x] 0155 Min Stack
 - [x] 0150 Evaluate Reverse Polish Notation
+- [x] 0022 Generate Parentheses
 
 ## Solved Problems
 
@@ -82,3 +85,4 @@ Started: 2026
 | 0020 | Valid Parentheses | Easy | 2026/4/27 |
 | 0155 | Min Stack | Medium | 2026/4/27 |
 | 0150 | Evaluate Reverse Polish Notation | Medium | 2026/4/28 |
+| 0022 | Generate Parentheses | Medium | 2026/4/28 |
