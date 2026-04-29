@@ -24,9 +24,9 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 25
+- Total Solved: 26
 - Easy: 7
-- Medium: 16
+- Medium: 17
 - Hard: 2
 
 ## Progress
@@ -56,6 +56,7 @@ Started: 2026
 - [x] 0155 Min Stack
 - [x] 0150 Evaluate Reverse Polish Notation
 - [x] 0022 Generate Parentheses
+- [x] 0739 Daily Temperatures
 
 ## Solved Problems
 
@@ -86,3 +87,4 @@ Started: 2026
 | 0155 | Min Stack | Medium | 2026/4/27 |
 | 0150 | Evaluate Reverse Polish Notation | Medium | 2026/4/28 |
 | 0022 | Generate Parentheses | Medium | 2026/4/28 |
+| 0739 | Daily Temperatures | Medium | 2026/4/29 |
