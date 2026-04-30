@@ -7,6 +7,7 @@ Started: 2026
 
 - `solutions/array`
 - `solutions/backtracking`
+- `solutions/binary_search`
 - `solutions/greedy`
 - `solutions/hash`
 - `solutions/prefix_sum`
@@ -15,6 +16,7 @@ Started: 2026
 - `solutions/string`
 - `notes/array`
 - `notes/backtracking`
+- `notes/binary_search`
 - `notes/greedy`
 - `notes/hash`
 - `notes/prefix_sum`
@@ -24,8 +26,8 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 26
-- Easy: 7
+- Total Solved: 28
+- Easy: 9
 - Medium: 17
 - Hard: 2
 
@@ -57,6 +59,8 @@ Started: 2026
 - [x] 0150 Evaluate Reverse Polish Notation
 - [x] 0022 Generate Parentheses
 - [x] 0739 Daily Temperatures
+- [x] 0704 Binary Search
+- [x] 0035 Search Insert Position
 
 ## Solved Problems
 
@@ -88,3 +92,5 @@ Started: 2026
 | 0150 | Evaluate Reverse Polish Notation | Medium | 2026/4/28 |
 | 0022 | Generate Parentheses | Medium | 2026/4/28 |
 | 0739 | Daily Temperatures | Medium | 2026/4/29 |
+| 0704 | Binary Search | Easy | 2026/4/30 |
+| 0035 | Search Insert Position | Easy | 2026/4/30 |
