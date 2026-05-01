@@ -26,9 +26,9 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 28
+- Total Solved: 29
 - Easy: 9
-- Medium: 17
+- Medium: 18
 - Hard: 2
 
 ## Progress
@@ -61,6 +61,7 @@ Started: 2026
 - [x] 0739 Daily Temperatures
 - [x] 0704 Binary Search
 - [x] 0035 Search Insert Position
+- [x] 0074 Search a 2D Matrix
 
 ## Solved Problems
 
@@ -94,3 +95,4 @@ Started: 2026
 | 0739 | Daily Temperatures | Medium | 2026/4/29 |
 | 0704 | Binary Search | Easy | 2026/4/30 |
 | 0035 | Search Insert Position | Easy | 2026/4/30 |
+| 0074 | Search a 2D Matrix | Medium | 2026/5/1 |
