@@ -27,9 +27,9 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 30
+- Total Solved: 31
 - Easy: 10
-- Medium: 18
+- Medium: 19
 - Hard: 2
 
 ## Progress
@@ -63,6 +63,7 @@ Started: 2026
 - [x] 0704 Binary Search
 - [x] 0035 Search Insert Position
 - [x] 0074 Search a 2D Matrix
+- [x] 0033 Search in Rotated Sorted Array
 - [x] 3917 Count Indices With Opposite Parity
 
 ## Weekly Contest
@@ -104,3 +105,4 @@ Started: 2026
 | 0704 | Binary Search | Easy | 2026/4/30 |
 | 0035 | Search Insert Position | Easy | 2026/4/30 |
 | 0074 | Search a 2D Matrix | Medium | 2026/5/1 |
+| 0033 | Search in Rotated Sorted Array | Medium | 2026/5/4 |
