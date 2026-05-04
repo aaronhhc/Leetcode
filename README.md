@@ -14,6 +14,7 @@ Started: 2026
 - `solutions/sliding_window`
 - `solutions/stack`
 - `solutions/string`
+- `weekly_contest/contest_500`
 - `notes/array`
 - `notes/backtracking`
 - `notes/binary_search`
@@ -26,8 +27,8 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 29
-- Easy: 9
+- Total Solved: 30
+- Easy: 10
 - Medium: 18
 - Hard: 2
 
@@ -62,6 +63,13 @@ Started: 2026
 - [x] 0704 Binary Search
 - [x] 0035 Search Insert Position
 - [x] 0074 Search a 2D Matrix
+- [x] 3917 Count Indices With Opposite Parity
+
+## Weekly Contest
+
+| Contest | # | Title | Difficulty | Date |
+|---------|---|-------|------------|------|
+| 500 | 3917 | Count Indices With Opposite Parity | Easy | 2026/5/4 |
 
 ## Solved Problems
 
