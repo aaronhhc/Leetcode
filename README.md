@@ -27,8 +27,8 @@ Started: 2026
 
 ## Stats
 
-- Total Solved: 31
-- Easy: 10
+- Total Solved: 32
+- Easy: 11
 - Medium: 19
 - Hard: 2
 
@@ -65,12 +65,14 @@ Started: 2026
 - [x] 0074 Search a 2D Matrix
 - [x] 0033 Search in Rotated Sorted Array
 - [x] 3917 Count Indices With Opposite Parity
+- [x] 3918 Sum of Primes Between Number and Its Reverse
 
 ## Weekly Contest
 
 | Contest | # | Title | Difficulty | Date |
 |---------|---|-------|------------|------|
 | 500 | 3917 | Count Indices With Opposite Parity | Easy | 2026/5/4 |
+| 500 | 3918 | Sum of Primes Between Number and Its Reverse | Easy | 2026/5/4 |
 
 ## Solved Problems
 
