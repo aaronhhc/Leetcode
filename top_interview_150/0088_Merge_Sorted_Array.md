@@ -55,6 +55,72 @@ us safely place the largest remaining value without losing data.
 
 ---
 
+## Important Mistakes
+
+### 1. Merging from the front
+
+Writing from the beginning of `nums1` can overwrite valid values before they
+have been compared.
+
+For example:
+
+```text
+nums1 = [2, 4, 0, 0]
+nums2 = [1, 3]
+```
+
+If `1` is written at index `0`, the value `2` is lost unless it was saved
+somewhere else. Merging backwards avoids this problem because the writable
+positions at the end of `nums1` are empty.
+
+### 2. Using `nums1.insert()`
+
+`insert()` shifts all later elements to the right, so one insertion can take
+`O(m + n)` time. Repeating it can make the full solution `O((m + n)^2)`.
+
+It is also unnecessary because `nums1` already has enough space for every
+value. The three-pointer solution writes directly into that space.
+
+### 3. Writing `nums1 = nums2`
+
+This only changes what the local variable `nums1` refers to. It does not modify
+the original list that was passed into the function.
+
+```python
+nums1 = nums2  # Rebinds the local name; not an in-place modification
+```
+
+LeetCode checks the original `nums1` list after the method finishes, so its
+elements must be changed directly, such as with `nums1[k] = value`.
+
+### 4. Forgetting the remaining `nums2` values
+
+The main loop stops as soon as either array has no values left to compare. If
+`nums2` still has values, they are smaller than everything already placed at the
+back and must be copied into the front of `nums1`.
+
+```python
+while j >= 0:
+    nums1[k] = nums2[j]
+    j -= 1
+    k -= 1
+```
+
+Without this loop, a case such as the following would be incorrect:
+
+```text
+nums1 = [4, 5, 6, 0, 0, 0]
+nums2 = [1, 2, 3]
+```
+
+### 5. Copying the remaining `nums1` values
+
+If `nums2` is exhausted first, the remaining values in `nums1` are already in
+their correct positions. Copying them would do nothing, so a second cleanup loop
+for `nums1` is not needed.
+
+---
+
 ## Remaining Values
 
 After the main loop, there are two possibilities.
