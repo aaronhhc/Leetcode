@@ -1,83 +1,37 @@
 # LeetCode Practice
 
-Language: Python mainly, C++  
+Language: Mainly Python, with some C++
 Started: 2026
 
-## Structure
+## Statistics
 
-- `solutions/array`
-- `solutions/backtracking`
-- `solutions/binary_search`
-- `solutions/greedy`
-- `solutions/hash`
-- `solutions/prefix_sum`
-- `solutions/sliding_window`
-- `solutions/stack`
-- `solutions/string`
-- `weekly_contest/contest_500`
-- `notes/array`
-- `notes/backtracking`
-- `notes/binary_search`
-- `notes/greedy`
-- `notes/hash`
-- `notes/prefix_sum`
-- `notes/sliding_window`
-- `notes/stack`
-- `notes/string`
+| Category | Solved |
+|----------|-------:|
+| General Practice | 30 |
+| Top Interview 150 | 1 / 150 |
+| Weekly Contests | 2 |
+| **Total** | **33** |
 
-## Stats
+| Difficulty | Solved |
+|------------|-------:|
+| Easy | 12 |
+| Medium | 19 |
+| Hard | 2 |
 
-- Total Solved: 32
-- Easy: 11
-- Medium: 19
-- Hard: 2
+## Top Interview 150
 
-## Progress
+Progress: **1 / 150**
 
-- [x] 0485 Max Consecutive Ones
-- [x] 0001 Two Sum
-- [x] 0217 Contains Duplicate
-- [x] 0242 Valid Anagram
-- [x] 0121 Best Time to Buy and Sell Stock
-- [x] 0053 Maximum Subarray
-- [x] 0238 Product Of Array Except Itself
-- [x] 0049 Group Anagrams
-- [x] 0347 Top K Frequent Elements
-- [x] 0128 Longest Consecutive Sequence
-- [x] 0036 Valid Sudoku
-- [x] 0125 Valid Palindrome
-- [x] 0167 Two Sum II - Input Array Is Sorted
-- [x] 0011 Container With Most Water
-- [x] 0015 3Sum
-- [x] 0042 Trapping Rain Water
-- [x] 0003 Longest Substring Without Repeating Characters
-- [x] 0424 Longest Repeating Character Replacement
-- [x] 0567 Permutation in String
-- [x] 0076 Minimum Window Substring
-- [x] 0438 Find All Anagrams in a String
-- [x] 0020 Valid Parentheses
-- [x] 0155 Min Stack
-- [x] 0150 Evaluate Reverse Polish Notation
-- [x] 0022 Generate Parentheses
-- [x] 0739 Daily Temperatures
-- [x] 0704 Binary Search
-- [x] 0035 Search Insert Position
-- [x] 0074 Search a 2D Matrix
-- [x] 0033 Search in Rotated Sorted Array
-- [x] 3917 Count Indices With Opposite Parity
-- [x] 3918 Sum of Primes Between Number and Its Reverse
+| # | Title | Difficulty | Status | Date |
+|---|-------|------------|--------|------|
+| 0088 | Merge Sorted Array | Easy | Completed | 2026/6/30 |
 
-## Weekly Contest
+## General Practice
 
-| Contest | # | Title | Difficulty | Date |
-|---------|---|-------|------------|------|
-| 500 | 3917 | Count Indices With Opposite Parity | Easy | 2026/5/4 |
-| 500 | 3918 | Sum of Primes Between Number and Its Reverse | Easy | 2026/5/4 |
-
-## Solved Problems
+Progress: **30 problems solved**
 
 | # | Title | Difficulty | Date |
-|---|------|------------|------|
+|---|-------|------------|------|
 | 0485 | Max Consecutive Ones | Easy | 2026/3/24 |
 | 0001 | Two Sum | Easy | 2026/3/25 |
 | 0217 | Contains Duplicate | Easy | 2026/3/28 |
@@ -108,3 +62,30 @@ Started: 2026
 | 0035 | Search Insert Position | Easy | 2026/4/30 |
 | 0074 | Search a 2D Matrix | Medium | 2026/5/1 |
 | 0033 | Search in Rotated Sorted Array | Medium | 2026/5/4 |
+
+## Weekly Contests
+
+Progress: **2 problems solved**
+
+| Contest | # | Title | Difficulty | Date |
+|---------|---|-------|------------|------|
+| 500 | 3917 | Count Indices With Opposite Parity | Easy | 2026/5/4 |
+| 500 | 3918 | Sum of Primes Between Number and Its Reverse | Easy | 2026/5/4 |
+
+## Repository Structure
+
+### General Practice
+
+- Solutions: `solutions/<topic>`
+- Notes: `notes/<topic>`
+
+Topics: `array`, `backtracking`, `binary_search`, `greedy`, `hash`,
+`prefix_sum`, `sliding_window`, `stack`, and `string`.
+
+### Top Interview 150
+
+- Code and notes: `top_interview_150`
+
+### Weekly Contests
+
+- Code and notes: `weekly_contest/contest_<number>`
