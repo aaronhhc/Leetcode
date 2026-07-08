@@ -20,13 +20,14 @@ Started: 2026
 
 ## Top Interview 150
 
-Progress: **3 / 150**
+Progress: **4 / 150**
 
 | # | Title | Difficulty | Status | Date |
 |---|-------|------------|--------|------|
 | 0088 | Merge Sorted Array | Easy | Completed | 2026/6/30 |
 | 0027 | Remove Element | Easy | Completed | 2026/7/7 |
 | 0026 | Remove Duplicates from Sorted Array | Easy | Completed | 2026/7/7 |
+| 0080 | Remove Duplicates from Sorted Array II | Medium | Completed | 2026/7/8 |
 
 ## General Practice
 
