@@ -8,19 +8,19 @@ Started: 2026
 | Category | Solved |
 |----------|-------:|
 | General Practice | 30 |
-| Top Interview 150 | 3 / 150 |
+| Top Interview 150 | 5 / 150 |
 | Weekly Contests | 2 |
-| **Total** | **35** |
+| **Total** | **37** |
 
 | Difficulty | Solved |
 |------------|-------:|
-| Easy | 13 |
+| Easy | 14 |
 | Medium | 20 |
 | Hard | 2 |
 
 ## Top Interview 150
 
-Progress: **4 / 150**
+Progress: **5 / 150**
 
 | # | Title | Difficulty | Status | Date |
 |---|-------|------------|--------|------|
@@ -28,6 +28,7 @@ Progress: **4 / 150**
 | 0027 | Remove Element | Easy | Completed | 2026/7/7 |
 | 0026 | Remove Duplicates from Sorted Array | Easy | Completed | 2026/7/7 |
 | 0080 | Remove Duplicates from Sorted Array II | Medium | Completed | 2026/7/8 |
+| 0169 | Majority Element | Easy | Completed | 2026/7/9 |
 
 ## General Practice
 
