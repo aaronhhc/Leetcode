@@ -8,27 +8,28 @@ Started: 2026
 | Category | Solved |
 |----------|-------:|
 | General Practice | 30 |
-| Top Interview 150 | 5 / 150 |
+| Top Interview 150 | 6 / 150 |
 | Weekly Contests | 2 |
-| **Total** | **37** |
+| **Total** | **38** |
 
 | Difficulty | Solved |
 |------------|-------:|
-| Easy | 14 |
-| Medium | 20 |
+| Easy | 15 |
+| Medium | 21 |
 | Hard | 2 |
 
 ## Top Interview 150
 
-Progress: **5 / 150**
+Progress: **6 / 150**
 
-| # | Title | Difficulty | Status | Date |
-|---|-------|------------|--------|------|
-| 0088 | Merge Sorted Array | Easy | Completed | 2026/6/30 |
-| 0027 | Remove Element | Easy | Completed | 2026/7/7 |
-| 0026 | Remove Duplicates from Sorted Array | Easy | Completed | 2026/7/7 |
-| 0080 | Remove Duplicates from Sorted Array II | Medium | Completed | 2026/7/8 |
-| 0169 | Majority Element | Easy | Completed | 2026/7/9 |
+| # | Title | Difficulty | Date |
+|---|-------|------------|------|
+| 0088 | Merge Sorted Array | Easy | 2026/6/30 |
+| 0027 | Remove Element | Easy | 2026/7/7 |
+| 0026 | Remove Duplicates from Sorted Array | Easy | 2026/7/7 |
+| 0080 | Remove Duplicates from Sorted Array II | Medium | 2026/7/8 |
+| 0169 | Majority Element | Easy | 2026/7/9 |
+| 0189 | Rotate Array | Medium | 2026/7/10 |
 
 ## General Practice
 
