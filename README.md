@@ -8,19 +8,19 @@ Started: 2026
 | Category | Solved |
 |----------|-------:|
 | General Practice | 30 |
-| Top Interview 150 | 6 / 150 |
+| Top Interview 150 | 8 / 150 |
 | Weekly Contests | 2 |
-| **Total** | **38** |
+| **Total (Unique)** | **39** |
 
 | Difficulty | Solved |
 |------------|-------:|
 | Easy | 15 |
-| Medium | 21 |
+| Medium | 22 |
 | Hard | 2 |
 
 ## Top Interview 150
 
-Progress: **6 / 150**
+Progress: **8 / 150**
 
 | # | Title | Difficulty | Date |
 |---|-------|------------|------|
@@ -30,6 +30,8 @@ Progress: **6 / 150**
 | 0080 | Remove Duplicates from Sorted Array II | Medium | 2026/7/8 |
 | 0169 | Majority Element | Easy | 2026/7/9 |
 | 0189 | Rotate Array | Medium | 2026/7/10 |
+| 0121 | Best Time to Buy and Sell Stock | Easy | 2026/7/11 |
+| 0122 | Best Time to Buy and Sell Stock II | Medium | 2026/7/11 |
 
 ## General Practice
 
