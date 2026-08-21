@@ -8,19 +8,19 @@ Started: 2026
 | Category | Solved |
 |----------|-------:|
 | General Practice | 30 |
-| Top Interview 150 | 9 / 150 |
+| Top Interview 150 | 10 / 150 |
 | Weekly Contests | 2 |
-| **Total (Unique)** | **40** |
+| **Total (Unique)** | **41** |
 
 | Difficulty | Solved |
 |------------|-------:|
 | Easy | 15 |
-| Medium | 23 |
+| Medium | 24 |
 | Hard | 2 |
 
 ## Top Interview 150
 
-Progress: **9 / 150**
+Progress: **10 / 150**
 
 | # | Title | Difficulty | Date |
 |---|-------|------------|------|
@@ -33,6 +33,7 @@ Progress: **9 / 150**
 | 0121 | Best Time to Buy and Sell Stock | Easy | 2026/7/11 |
 | 0122 | Best Time to Buy and Sell Stock II | Medium | 2026/7/11 |
 | 0055 | Jump Game | Medium | 2026/7/12 |
+| 0274 | H-Index | Medium | 2026/8/21 |
 
 ## General Practice
 
