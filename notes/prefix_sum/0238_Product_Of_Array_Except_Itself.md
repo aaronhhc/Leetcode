@@ -1,68 +1,77 @@
 # 0238. Product of Array Except Self
 
-## Idea
+## Problem Idea
 
-For each index, we want:
+For every index `i`, return the product of every element except `nums[i]`.
 
-- the product of all numbers on the left, prefix
-- multiplied by the product of all numbers on the right, suffix
+Division is not allowed, so split the product into two parts:
 
-So we do it in two passes:
+```text
+answer[i] = product of elements to the left of i
+            * product of elements to the right of i
+```
 
-1. left to right: store the prefix product in `ans[i]`
-2. right to left: multiply the suffix product into `ans[i]`
+## Two-Pass Approach
 
-## Key Insight
+Set `res = [1] * n`, then use the output array to store the left products first.
 
-Instead of computing the product for each index separately,  
-we reuse previous results.
+### 1. Prefix pass: left to right
 
-For each position:
+Before processing `i`, `res[i - 1]` contains the product of all elements before `i - 1`.
+Therefore:
 
-- `prefix` = product of all elements before `i`
-- `suffix` = product of all elements after `i`
+```python
+res[i] = res[i - 1] * nums[i - 1]
+```
 
-So:
+After this pass, `res[i]` is the product of everything to the left of `i`.
 
-`answer[i] = prefix[i] * suffix[i]`
+### 2. Suffix pass: right to left
 
-## Why this works
+Maintain `suffix`, the product of all elements to the right of the current index.
+For each index:
 
-In the first pass:
+```python
+res[i] *= suffix
+suffix *= nums[i]
+```
 
-- `ans[i]` stores the product of everything to the left of `i`
+The first line completes the answer for `i`; the second line updates the suffix product for the next index.
 
-In the second pass:
-
-- multiply by the product of everything to the right of `i`
-
-That gives the product of all elements except itself.
+After the reverse pass, return `res`. Both passes use the same array, so no separate prefix or suffix array is needed.
 
 ## Example
 
-For `nums = [1, 2, 3, 4]`
+For `nums = [1, 2, 3, 4]`:
 
-After prefix pass:
+After the prefix pass:
 
-`ans = [1, 1, 2, 6]`
+```text
+res = [1, 1, 2, 6]
+```
 
-After suffix pass:
+After the suffix pass:
 
-`ans = [24, 12, 8, 6]`
+```text
+res = [24, 12, 8, 6]
+```
+
+The same approach also handles zero values naturally. For example, `[1, 2, 0, 4]` produces `[0, 0, 8, 0]` without any special cases.
+
+## Why This Works
+
+At every index, `res[i]` starts as the product of all elements before `i`. The suffix pass multiplies it by the product of all elements after `i`, so the current element is never included.
+
+The output array replaces a separate prefix array, which keeps the extra space constant.
 
 ## Complexity
 
 - Time: `O(n)`
-- Space: `O(1)` extra space  
-  (not counting the output array)
+- Extra space: `O(1)`, excluding the output array
 
-## Note
+## Key Learning
 
-This solution avoids division and is the optimal approach.
-
-The key idea is:
-
-- first store left product
-- then multiply right product
-- combine both in the same output array
-- `for i in range(n-1, -1, -1)` iterate from the ass
+- Build left products in the output array.
+- Traverse from right to left to multiply in right products.
+- The initial value `1` represents the empty product at either end.
+- `range(n - 1, -1, -1)` iterates backward from the last index to `0`.
