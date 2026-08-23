@@ -3,3 +3,13 @@
 *.o
 .vscode/
 .codex
+
+# Python generated files and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
