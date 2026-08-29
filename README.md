@@ -8,19 +8,19 @@ Started: 2026
 | Category | Solved |
 |----------|-------:|
 | General Practice | 30 |
-| Top Interview 150 | 11 / 150 |
+| Top Interview 150 | 12 / 150 |
 | Weekly Contests | 2 |
-| **Total (Unique)** | **42** |
+| **Total (Unique)** | **43** |
 
 | Difficulty | Solved |
 |------------|-------:|
 | Easy | 15 |
 | Medium | 25 |
-| Hard | 2 |
+| Hard | 3 |
 
 ## Top Interview 150
 
-Progress: **11 / 150**
+Progress: **12 / 150**
 
 | # | Title | Difficulty | Date |
 |---|-------|------------|------|
@@ -35,6 +35,7 @@ Progress: **11 / 150**
 | 0055 | Jump Game | Medium | 2026/7/12 |
 | 0274 | H-Index | Medium | 2026/8/21 |
 | 0134 | Gas Station | Medium | 2026/8/25 |
+| 0135 | Candy | Hard | 2026/8/29 |
 
 ## General Practice
 
